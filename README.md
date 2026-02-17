@@ -42,6 +42,4 @@ Improving user experience with interactive design
 https://rohan16-web.github.io/PRODIGY_WD_01/
 
 
-📎 Repository
 
-(Add your GitHub repo link here)
